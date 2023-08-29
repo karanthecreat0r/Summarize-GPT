@@ -60,8 +60,6 @@ The Repo provides an overview of different strategies for summarizing dense text
 >Prompt: Offering additional information or background to help make the information more comprehensible.
 
 
-Thank you for visiting the "Awesome ChatGPT Prompts" repository! We hope you found the prompts helpful and were inspired to create your own. Remember, the more prompts you have, the more diverse and interesting your conversations with ChatGPT will be. Don't hesitate to add your own prompts and share your creations with the community. Happy chatting!
-
 
 - Bonus: Turning the summary into a stand-up comedy routine.
 >Prompt: Turn summary into a stand up comedy routine
