@@ -11,7 +11,7 @@ To get started, simply clone this repository and use the prompts in the README.m
 We hope you find these prompts useful and have fun using ChatGPT!
 This repository contains tools and techniques for summarizing dense text using GPT models.
 
-## Summary of 'Summarizing Dense Text' PDF
+## Summary of 'Summarizing Dense Text'
 
 The Repo provides an overview of different strategies for summarizing dense text, including:
 
