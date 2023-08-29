@@ -1,5 +1,14 @@
-# Summarize-GPT
+### Summarize-GPT Prompts
 
+Welcome to the "Summarize-GPT Prompts" repository! This collection contains a variety of prompt examples that can be used with the OpenAI ChatGPT model.
+
+ChatGPT is a large language model developed by OpenAI that is capable of generating human-like text. By providing a prompt to ChatGPT, it can generate responses that continue the conversation or expand on the given prompt.
+
+In this repository, you will find a variety of prompts that can be used with ChatGPT to Summarize Large text. We encourage you to contribute by adding your own prompts to the list, and to use ChatGPT to generate new prompts as well.
+
+To get started, simply clone this repository and use the prompts in the README.md file as input for ChatGPT. 
+
+We hope you find these prompts useful and have fun using ChatGPT!
 This repository contains tools and techniques for summarizing dense text using GPT models.
 
 ## Summary of 'Summarizing Dense Text' PDF
@@ -51,7 +60,10 @@ The Repo provides an overview of different strategies for summarizing dense text
 >Prompt: Offering additional information or background to help make the information more comprehensible.
 
 
+Thank you for visiting the "Awesome ChatGPT Prompts" repository! We hope you found the prompts helpful and were inspired to create your own. Remember, the more prompts you have, the more diverse and interesting your conversations with ChatGPT will be. Don't hesitate to add your own prompts and share your creations with the community. Happy chatting!
+
 
 - Bonus: Turning the summary into a stand-up comedy routine.
 >Prompt: Turn summary into a stand up comedy routine
 
+Thank you for visiting the "Summarize-GPT" repository! We hope you found the prompts helpful and were inspired to create your own. Remember, the more prompts you have, the more diverse and interesting your conversations with ChatGPT will be. Don't hesitate to add your own prompts and share your creations with the community. Happy chatting!
